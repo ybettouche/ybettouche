@@ -1,0 +1,5 @@
+- 👋 Bonjour, Je m'appelle Yamina.
+- 👀 Je m'intéresse à la programmation web.
+- 🌱 Actuellement je suis inscrite au programme de la programmation Web.
+- 💞️ Je suis à la recherche d'une collaboration.
+- 📫 Voici mon courriel pour me contacter: yamina@email.com.
